@@ -4,8 +4,14 @@
 # - E não podemos usar palavras reservadas do Python, como if, for, from, etc. 
 
 # Declare variáveis do tipo string
-
+print('Jadir')
+print("Gerente")
+print('''ganhar
+      dinheiro e
+      mudar de vida''')
 # Declare variáveis de cada tipo numérico
-
-
-# Declare uma variável do tipo booleano
+print ("6")
+print('10.000')
+print('True')
+print('''False''')
+print("final")
